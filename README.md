@@ -15,7 +15,7 @@ git clone https://github.com/cyb3rt3ch/All-Tools
 cd All-Tools
 ```
 ```
-Bash All-Tools.sh
+bash All-Tools.sh
 ```
 
 
