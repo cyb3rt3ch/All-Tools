@@ -19,7 +19,7 @@ Bash All-Tools.sh
 ```
 
 
-It will automatically install all the tools.
+It will automatically install all the Tools.
 
 ## Donate Us:
    https://bit.ly/DonaTeUs
